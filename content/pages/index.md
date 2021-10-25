@@ -33,7 +33,7 @@ sections:
         url: /
         showIcon: false
         icon: cart
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
         type: Button
