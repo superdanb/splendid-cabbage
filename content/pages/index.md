@@ -32,7 +32,7 @@ sections:
         altText: Learn more
         url: /
         showIcon: false
-        icon: arrowLeft
+        icon: cart
         iconPosition: right
         style: secondary
         elementId: ''
