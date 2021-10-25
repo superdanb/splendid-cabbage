@@ -32,7 +32,7 @@ sections:
         altText: Learn more
         url: /
         showIcon: false
-        icon: arrowRight
+        icon: arrowLeft
         iconPosition: left
         style: secondary
         elementId: ''
