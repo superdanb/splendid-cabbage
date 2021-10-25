@@ -34,7 +34,7 @@ sections:
         showIcon: false
         icon: arrowLeft
         iconPosition: left
-        style: secondary
+        style: link
         elementId: ''
         type: Button
     feature:
